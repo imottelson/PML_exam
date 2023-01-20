@@ -16,3 +16,5 @@ The repository contains the supporting code for our exam project in form of Jupy
 - [mnist_lenet5_train.ipynb](mnist_lenet5_train.ipynb) contains the code for training the LeNet5 classifier that is used to compute FLD.
 
 ## Part B
+- [part_B.ipynb](part_B.ipynb) contains all the code for Part B.
+- [BayesianOptimizationOut](BayesianOptimizationOut) contains the final step outputs of the ten repeated runs of each bayesian optimization implementation.
