@@ -1,0 +1,5 @@
+Model,Score
+MNIST test set,0.28502166440778837
+Simple Variational Autoencoder,2.192637069586651
+Convolutional Variational Autoencoder,1.9417959130039515
+Diffusion model,0.47318397441006754
